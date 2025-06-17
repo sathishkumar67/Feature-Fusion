@@ -1,0 +1,8 @@
+numpy==1.26.4
+matplotlib==3.10.3
+seaborn==0.13.2
+optuna==4.4.0
+tensorflow==2.19.0
+scikit-learn==1.7.0
+xgboost==3.0.2
+catboost==1.2.9
